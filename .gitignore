@@ -1,0 +1,9 @@
+﻿app/
+build/
+out/
+dist/
+user-data/
+**/user-data/
+*.bak
+*.tmp
+*.pdb
